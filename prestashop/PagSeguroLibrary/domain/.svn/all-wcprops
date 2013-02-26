@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/uol-fila-pagseguro/!svn/ver/24/trunk/fontes/prestashop/PagSeguroLibrary/domain
+END
+PagSeguroPaymentMethodCode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroPaymentMethodCode.class.php
+END
+PagSeguroPhone.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroPhone.class.php
+END
+PagSeguroTransactionSearchResult.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroTransactionSearchResult.class.php
+END
+PagSeguroAccountCredentials.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroAccountCredentials.class.php
+END
+PagSeguroPaymentMethod.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroPaymentMethod.class.php
+END
+PagSeguroPaymentMethodType.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroPaymentMethodType.class.php
+END
+PagSeguroSender.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroSender.class.php
+END
+PagSeguroShipping.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroShipping.class.php
+END
+PagSeguroHttpStatus.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroHttpStatus.class.php
+END
+PagSeguroShippingType.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroShippingType.class.php
+END
+PagSeguroAddress.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroAddress.class.php
+END
+PagSeguroTransaction.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroTransaction.class.php
+END
+PagSeguroPaymentRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php
+END
+PagSeguroTransactionType.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroTransactionType.class.php
+END
+PagSeguroNotificationType.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroNotificationType.class.php
+END
+PagSeguroError.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroError.class.php
+END
+PagSeguroTransactionStatus.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/uol-fila-pagseguro/!svn/ver/13/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroTransactionStatus.class.php
+END
+PagSeguroCredentials.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroCredentials.class.php
+END
+PagSeguroItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroItem.class.php
+END
+PagSeguroTransactionSummary.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/domain/PagSeguroTransactionSummary.class.php
+END

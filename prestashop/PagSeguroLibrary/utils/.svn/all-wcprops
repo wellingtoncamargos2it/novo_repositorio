@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/uol-fila-pagseguro/!svn/ver/24/trunk/fontes/prestashop/PagSeguroLibrary/utils
+END
+PagSeguroXmlParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/uol-fila-pagseguro/!svn/ver/6/trunk/fontes/prestashop/PagSeguroLibrary/utils/PagSeguroXmlParser.class.php
+END
+PagSeguroHttpConnection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/uol-fila-pagseguro/!svn/ver/13/trunk/fontes/prestashop/PagSeguroLibrary/utils/PagSeguroHttpConnection.class.php
+END
